@@ -12,3 +12,4 @@ An Android application for medicine reminders.
 - Kotlin
 - Android Studio
 - Firebase
+- Created by Mahek Siddiqui
