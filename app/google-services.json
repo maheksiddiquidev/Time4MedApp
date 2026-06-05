@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "462945630898",
+    "project_id": "time4medapp",
+    "storage_bucket": "time4medapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462945630898:android:6d6d3261c62506e01027ab",
+        "android_client_info": {
+          "package_name": "com.example.time4medapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462945630898-t0d4q9dsvaqor6ehqnt6fob9gjm6t671.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.time4medapp",
+            "certificate_hash": "acee35733987a9d9ca7f2e93f3d44df2cef26cc5"
+          }
+        },
+        {
+          "client_id": "462945630898-lj6ov4hetdu6tamfvckbu04ea50v4vl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBopB69vRn2o-uTFc9_suW7Sh93IGz1YUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462945630898-lj6ov4hetdu6tamfvckbu04ea50v4vl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

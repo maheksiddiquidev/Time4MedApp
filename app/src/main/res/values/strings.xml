@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Time4MedApp</string>
+
+    <string name="default_web_client_id">
+        462945630898-lj6ov4hetdu6tamfvckbu04ea50v4vl9.apps.googleusercontent.com
+    </string>
+</resources>
